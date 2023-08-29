@@ -1,4 +1,4 @@
-# yes_no_app
+# DECIDER YES NO APP
 
 A new Flutter project.
 
